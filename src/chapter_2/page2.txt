@@ -2,3 +2,7 @@ Sed lacinia, lorem auctor blandit euismod, tellus nulla pretium tellus, eu feugi
  ultrices ex, id suscipit tellus. Cras consequat tellus in fringilla tincidunt. Praesent faucibus, mauris nec mollis
   sodales, enim lectus facilisis risus, a sodales ligula purus
  finibus quam. Praesent erat ligula, facilisis ut risus non, ultricies posuere est.
+
+
+ The default font size is set on the Editor | Font page of the IDE settings Ctrl+Alt+S. It will be used in the editor
+  by for all newly opened documents, unless overridden in the current color scheme.
